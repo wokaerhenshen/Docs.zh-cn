@@ -75,7 +75,7 @@ dotnet new mvc --auth Individual
 
 请注意`EmailConfirmed`字段是`False`。
 
-你可能想要再次在下一步中使用此电子邮件，当应用程序发送确认电子邮件。 右键单击行并选择**删除**。 删除电子邮件别名现在将使容易在以下步骤。
+你可能想要再次在下一步中使用此电子邮件，当应用程序发送确认电子邮件。 右键单击行并选择**删除**。 删除电子邮件别名现在将使接下来的步骤更容易。
 
 # <a name="sqlitetabsqlite"></a>[SQLite](#tab/sqlite)
 
